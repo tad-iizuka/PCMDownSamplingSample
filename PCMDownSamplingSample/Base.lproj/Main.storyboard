@@ -110,20 +110,19 @@
                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <button opaque="NO" contentMode="center" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wx8-HP-Ohl">
-                                                    <rect key="frame" x="318" y="2" width="41" height="40"/>
+                                                <button opaque="NO" contentMode="center" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wx8-HP-Ohl">
+                                                    <rect key="frame" x="319" y="2" width="39" height="39"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                                    <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                                     <color key="tintColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                    <state key="normal" image="Upload-50.png">
-                                                        <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                    </state>
+                                                    <state key="normal" title="Share"/>
                                                     <connections>
                                                         <action selector="shareItem:" destination="Sax-Mv-Hu7" eventType="touchUpInside" id="1Eb-Z7-a6a"/>
                                                     </connections>
                                                 </button>
                                             </subviews>
                                         </tableViewCellContentView>
-                                        <inset key="separatorInset" minX="52" minY="0.0" maxX="30" maxY="0.0"/>
                                         <connections>
                                             <outlet property="button" destination="Wx8-HP-Ohl" id="Nvo-Ab-zSh"/>
                                             <outlet property="label" destination="CDh-s6-kYS" id="iCq-Hp-gga"/>
@@ -148,7 +147,4 @@
             <point key="canvasLocation" x="2693.5999999999999" y="777.66116941529242"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="Upload-50.png" width="25" height="25"/>
-    </resources>
 </document>
