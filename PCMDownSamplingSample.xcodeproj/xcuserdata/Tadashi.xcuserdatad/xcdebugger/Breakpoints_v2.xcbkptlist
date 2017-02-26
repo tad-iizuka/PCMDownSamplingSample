@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PCMDownSamplingSample/ListView.swift"
+            timestampString = "509780472.590463"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "createLists()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PCMDownSamplingSample.ListView.createLists () -&gt; ()"
+                  moduleName = "PCMDownSamplingSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tadashi/Developer_iOS/PCMDownSamplingSample/PCMDownSamplingSample/ListView.swift"
+                  timestampString = "509778541.514367"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "851">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PCMDownSamplingSample.ListView.(createLists () -&gt; ()).(closure #2)"
+                  moduleName = "PCMDownSamplingSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tadashi/Developer_iOS/PCMDownSamplingSample/PCMDownSamplingSample/ListView.swift"
+                  timestampString = "509778541.518519"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PCMDownSamplingSample/ListView.swift"
+            timestampString = "509780472.590463"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "createLists()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PCMDownSamplingSample.ListView.createLists () -&gt; ()"
+                  moduleName = "PCMDownSamplingSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tadashi/Developer_iOS/PCMDownSamplingSample/PCMDownSamplingSample/ListView.swift"
+                  timestampString = "509778504.436706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PCMDownSamplingSample.ListView.(createLists () -&gt; ()).(closure #1)"
+                  moduleName = "PCMDownSamplingSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tadashi/Developer_iOS/PCMDownSamplingSample/PCMDownSamplingSample/ListView.swift"
+                  timestampString = "509778504.442365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PCMDownSamplingSample/ViewController.swift"
+            timestampString = "509781551.63049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
