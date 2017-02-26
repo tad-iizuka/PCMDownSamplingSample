@@ -82,7 +82,6 @@ class ViewController: UIViewController {
 		formatter.dateFormat = "yyyyMMdd_HHmmss"
 		let filePath =  dir.appending(String(format: "/%@.wav", formatter.string(from: Date())))
 		let outurl = URL(fileURLWithPath: filePath)
-		print(outurl)
 		self.filePath = filePath
 		_ = ExtAudioFileCreateWithURL(outurl as CFURL,
 			kAudioFileWAVEType,
